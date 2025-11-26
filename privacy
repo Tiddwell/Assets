@@ -1,0 +1,257 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy – Tiddwell</title>
+    <style>
+        * {
+            box-sizing: border-box;
+        }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 2rem 1.5rem;
+            background: #fff;
+        }
+        h1 {
+            font-size: 1.75rem;
+            margin-bottom: 0.25rem;
+            color: #111;
+        }
+        .last-updated {
+            color: #666;
+            font-size: 0.9rem;
+            margin-bottom: 2rem;
+        }
+        h2 {
+            font-size: 1.25rem;
+            margin-top: 2rem;
+            margin-bottom: 0.75rem;
+            color: #111;
+        }
+        h3 {
+            font-size: 1.1rem;
+            margin-top: 1.5rem;
+            margin-bottom: 0.5rem;
+            color: #111;
+        }
+        h4 {
+            font-size: 1rem;
+            margin-top: 1.25rem;
+            margin-bottom: 0.5rem;
+            color: #333;
+        }
+        p, ul, ol {
+            margin-bottom: 1rem;
+        }
+        ul, ol {
+            padding-left: 1.5rem;
+        }
+        a {
+            color: #2563eb;
+        }
+        header {
+            margin-bottom: 2rem;
+            padding-bottom: 1rem;
+            border-bottom: 1px solid #e5e5e5;
+        }
+        .brand {
+            font-size: 1.5rem;
+            font-weight: 700;
+            color: #F57C00;
+            text-decoration: none;
+        }
+        .brand:hover {
+            opacity: 0.8;
+        }
+        .back-link {
+            font-size: 0.9rem;
+            margin-top: 0.25rem;
+        }
+        .back-link a {
+            color: #666;
+        }
+        .contact {
+            margin-top: 2.5rem;
+            padding-top: 1.5rem;
+            border-top: 1px solid #e5e5e5;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <a href="https://tiddwell.com" class="brand">Tiddwell</a>
+        <div class="back-link"><a href="https://tiddwell.com">← Back to tiddwell.com</a></div>
+    </header>
+
+    <h1>Privacy Policy</h1>
+    <p class="last-updated">Last updated: November 2025</p>
+
+    <p>Tiddwell, LLC, a Washington limited liability company ("Tiddwell," "we," "us," or "our"), provides rental-income and expense-tracking tools, including data categorization and reporting features aligned with IRS Schedule E for convenience. This Privacy Policy explains how we collect, use, disclose, and protect information when you access or use our website located at www.tiddwell.com and all related software, applications, data-import tools, and any other online and offline services provided by Tiddwell (the "Services"). Specifically, this Privacy Policy explains:</p>
+
+    <ul>
+        <li>how we collect non-public information about you that can be used alone or in combination to identify you ("Personal Information"),</li>
+        <li>how we use your Personal Information, and</li>
+        <li>how we protect your privacy.</li>
+    </ul>
+
+    <p>By accessing and using the Services, you acknowledge that you have read this Privacy Policy.</p>
+
+    <h2>1. Privacy Principles</h2>
+
+    <h3>A. Our Privacy Assurance</h3>
+    <p>We take your privacy seriously. Consistent with applicable U.S. law, we:</p>
+
+    <ul>
+        <li>collect only Personal Information necessary or relevant to providing the Services.</li>
+        <li>use legitimate and proportional methods to collect Personal Information</li>
+        <li>take reasonable steps to ensure Personal Information we act upon is accurate and timely.</li>
+        <li>limit internal access to authorized personnel trained to handle Personal Information.</li>
+        <li>use industry-standard security measures to protect Personal Information.</li>
+        <li>do not sell Personal Information.</li>
+        <li>share Personal Information externally only as outlined in this Privacy Policy and as permitted by law.</li>
+    </ul>
+
+    <h3>B. Personal Information We Collect</h3>
+
+    <h4>1) Information You Provide Directly</h4>
+    <p>We obtain most Personal Information directly from you, including when you create an account or use the Services. This may include:</p>
+
+    <ul>
+        <li>First and last name</li>
+        <li>Company name (if applicable)</li>
+        <li>Email address</li>
+        <li>Phone number</li>
+        <li>Account login credentials</li>
+        <li>Manually entered rental income and expense information</li>
+        <li>Property information</li>
+        <li>Expense notes, vendor details, or uploaded documents</li>
+        <li>Vendor and tenant information that may include names, contact details (such as address, email address, and phone number), classifications, and optional tax identification numbers (such as EINs) that you choose to enter.</li>
+        <li>Financial, transactional, property-related, or other information you enter, upload, import, or sync with the Services ("Inputs")</li>
+        <li>Payment information collected by our third-party payment processor (we do not store full card numbers)</li>
+    </ul>
+
+    <p>You retain ownership of your Inputs.</p>
+
+    <h4>2) Bank-Feed Integrations</h4>
+    <p>If you choose to connect a financial account, we receive transaction data through third-party financial data aggregation services. We do not store full bank account numbers. Bank accounts are represented only by user-created labels and the last four digits for identification. This may include transaction amounts, merchant names, dates and metadata, and account balance and routing data as provided by the aggregator.</p>
+
+    <p>We do not receive or store your financial-institution login credentials.</p>
+
+    <p>Your use of bank-feed integrations is governed by the applicable third-party provider's privacy policy.</p>
+
+    <h4>3) Automatically Collected Information</h4>
+    <p>We may collect:</p>
+
+    <ul>
+        <li>IP address</li>
+        <li>Browser type</li>
+        <li>Device identifiers</li>
+        <li>Pages viewed</li>
+        <li>Actions taken within the Services</li>
+        <li>Log files</li>
+        <li>Cookies, web beacons, and similar technologies ("Tracking Tools")</li>
+    </ul>
+
+    <p>You may control cookies through your browser, but doing so may limit functionality.</p>
+
+    <h4>4) Information from Third Parties</h4>
+    <p>We may receive Personal Information from payment processors, analytics providers, and service providers assisting in delivering the Services. We use this information consistent with this Privacy Policy and applicable law.</p>
+
+    <h3>C. How We Use Personal Information</h3>
+    <p>We use Personal Information only for purposes consistent with delivering and improving the Services, including:</p>
+
+    <ul>
+        <li>Creating and managing user accounts;</li>
+        <li>Providing income and expense tracking;</li>
+        <li>Importing or syncing financial-account data;</li>
+        <li>Categorizing transactions (including Schedule E categories for convenience only; we do not provide legal, investment, accounting, or other professional advice);</li>
+        <li>Generating reports;</li>
+        <li>Communicating with you;</li>
+        <li>Detecting and preventing fraud or misuse;</li>
+        <li>Operating, maintaining, and improving the Services;</li>
+        <li>Complying with legal obligations.</li>
+    </ul>
+
+    <p>We use your Inputs to generate certain calculations, reports, categorizations, summaries, or other informational materials based on your Inputs ("Outputs") within the Services.</p>
+
+    <p><strong>No Use of Inputs or Outputs for AI Training:</strong> We do not use your Inputs, Outputs, or any Personal Information to train or improve any internal or third-party artificial intelligence or machine-learning models. We do not use your Inputs to sell Personal Information or engage in cross-context behavior advertising. Outputs may depend on the accuracy and completeness of your Inputs and any imported transaction data.</p>
+
+    <p><strong>Note:</strong> Outputs may be incomplete or inaccurate. You are solely responsible for reviewing all Outputs before using them for tax filings, reporting, accounting, or financial decisions. Tiddwell does not provide tax, legal, accounting, or financial advice.</p>
+
+    <h3>D. Sharing of Personal Information</h3>
+    <p>We may share Personal Information only with:</p>
+
+    <h4>1) Service Providers</h4>
+    <p>Including:</p>
+
+    <ul>
+        <li>Hosting providers</li>
+        <li>Cloud infrastructure vendors</li>
+        <li>Customer-support and email-delivery platforms</li>
+        <li>Bank-feed data providers</li>
+        <li>Payment processors</li>
+        <li>Data-security and backup vendors</li>
+    </ul>
+
+    <p>These providers may access Personal Information only to perform services on our behalf. We use Auth0 to manage authentication and user login security. Authentication information is processed according to Auth0's privacy policy. We use Stripe to process payment transactions, and Stripe handles all payment card information according to its own privacy policy. Tiddwell does not store full payment card numbers.</p>
+
+    <h4>2) Third-Party Integrations Required to Provide the Services</h4>
+    <p>For example, bank-feed integration partners or analytics providers.</p>
+
+    <h4>3) Corporate Transactions</h4>
+    <p>Personal Information may be transferred in the event of a merger, acquisition, financing, or sale of assets.</p>
+
+    <h4>4) Legal and Compliance</h4>
+    <p>We may disclose Personal Information to government agencies, courts or for purposes of legal process, and law-enforcement authorities. Where legally permitted, we will use reasonable efforts to notify you before producing information in response to a subpoena or legal request.</p>
+
+    <h4>5) Aggregated and Anonymized Information</h4>
+    <p>We may use or share aggregated, de-identified data that does not identify you. We may also use de-identified information to analyze usage trends and improve the Services.</p>
+
+    <h4>6) Social or Public Features</h4>
+    <p>If you post on public areas of the Services (if enabled in the future), that information may become publicly visible.</p>
+
+    <p>We do not knowingly sell, rent, or trade Personal Information and we do not use Personal Information for advertising or cross-context behavioral targeting.</p>
+
+    <h3>E. Retention, Confidentiality, and Security</h3>
+    <p>We retain Personal Information only as long as reasonably necessary to provide the Services, comply with legal obligations, resolve disputes, and maintain business records. We use industry-standard physical, technical, and organizational safeguards, but no system is perfectly secure. You are responsible for maintaining confidentiality of your credentials, using secure devices, and keeping browser and security software updated.</p>
+
+    <p>We use administrative, technical, and physical safeguards designed to protect Personal Information, including encryption of data in transit and at rest. If a security breach occurs, we may contact you via email or through the Services.</p>
+
+    <p>When you delete records within the Services without deleting your entire account, the records may be soft deleted and retained temporarily to preserve reporting and financial integrity. Soft-deleted data is permanently removed when your account is deleted. If you delete your account with us, we use commercially reasonable efforts to delete all of your Personal Information from our Services.</p>
+
+    <h3>F. Children's Privacy</h3>
+    <p>The Services are intended only for individuals 18 years of age or older, consistent with our Terms of Service. We do not knowingly collect Personal Information from anyone under 18. If you believe a minor has provided information, contact us and we will delete it.</p>
+
+    <h2>2. Additional Relevant Provisions and Laws</h2>
+    <p>We make reasonable efforts to comply with the privacy laws of the U.S. and make no representation that this Privacy Policy or the Terms of Service comply with the laws of any other jurisdiction. If you choose to visit the Services, you do so at your own initiative and at your own risk and you are responsible for complying with all applicable local laws and you waive any causes of action, suits, penalties, fines, losses, damages, costs, or expenses, including attorneys' fees ("Claims") that may arise under such local laws.</p>
+
+    <h3>International Visitors</h3>
+    <p>Tiddwell is based in the United States. The Services are intended for U.S. users only. We do not direct the Services to individuals in the EU or UK, and GDPR does not apply to our processing. If you access the Services from outside the U.S., you agree that your information will be transferred to and processed in the United States.</p>
+
+    <p>We may also transfer your data, including Personal Information, from the U.S. to other countries or regions in connection with storage and processing of data, fulfilling your requests, and operating the Services. By providing any information, including Personal Information, to us, you consent to such transfer, storage, and processing.</p>
+
+    <h2>3. Your Privacy Choices</h2>
+    <p>You may opt out of marketing emails, manage cookies via your browser, or request access, correction, or deletion (where legally applicable). We may require identity verification before responding.</p>
+
+    <p>You may export a backup of your Company data at any time using the export functionality within the Services.</p>
+
+    <p>Depending on your state of residence, you may have additional rights under applicable privacy laws, including rights related to access, deletion, and correction.</p>
+
+    <h2>4. Changes to this Privacy Policy</h2>
+    <p>We may modify this Privacy Policy from time to time. Updates are effective when posted. Continued use of the Services constitutes acceptance.</p>
+
+    <h2>5. Contact Us</h2>
+    <p>For clarification or if you have any concerns about the Privacy Policy or requests related to any Personal Information that we collect, use, or share about you, please write to us at <a href="mailto:support@tiddwell.com">support@tiddwell.com</a>, or Tiddwell, LLC, 522 W Riverside Ave, Spokane WA 99201, and we will promptly respond.</p>
+
+    <p>We will promptly investigate and attempt to respond in a manner that complies with the principles described in this Privacy Policy.</p>
+
+    <div class="contact">
+        <p><a href="https://tiddwell.com">← Return to tiddwell.com</a></p>
+    </div>
+</body>
+</html>
