@@ -306,5 +306,12 @@
     <div class="contact">
         <p><a href="https://tiddwell.com">← Return to tiddwell.com</a></p>
     </div>
+
+     <script>
+      if (window.location.search.includes('embed')) {
+        document.querySelector('header').style.display = 'none';
+        document.querySelector('.contact').style.display = 'none';
+      }
+    </script>
 </body>
 </html>
